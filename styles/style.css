@@ -24,14 +24,12 @@ h3{
     font-size: 25px;
     font-weight: 300;
 }
-img{
-    max-width: 100%;
-}
 #imgs{
     text-align: center;
 }
 #ENIAC{
     width: 500px;
+    max-width: 100%;
     height: auto;
     border: 1px solid black;
     border-radius: 2.5%;
