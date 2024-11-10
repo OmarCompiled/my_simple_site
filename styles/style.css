@@ -25,7 +25,7 @@ h3{
     font-weight: 300;
 }
 img{
-    width: 100%;
+    min-width: 100%;
 }
 #imgs{
     text-align: center;
