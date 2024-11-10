@@ -7,6 +7,7 @@ html{
 body{
     padding: 0 25px 25px 25px;
     border: 5px solid black;
+    border-radius: 2.5%;
     margin: 25px 25px 25px 25px;
     background-color: #7fccd4;
     letter-spacing: auto;
@@ -21,6 +22,19 @@ h3{
     font-size: 25px;
     font-weight: 300;
 }
-div{
+#imgs{
     text-align: center;
+}
+#ENIAC{
+    width: 500px;
+    height: auto;
+    border-radius: 2.5%;
+}
+#links{
+    padding-left: 25px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+#inner{
+    border-radius: 20px;
 }
