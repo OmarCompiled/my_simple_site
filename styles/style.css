@@ -1,6 +1,7 @@
 html{
     font-size: 10px;
-    font-family: monospace;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
     background-color: #7fffd4;
 }
 body{
@@ -13,10 +14,12 @@ body{
 }
 h1{
     font-size: 35px;
+    font-weight: 400;
 }
 p,
 h3{
     font-size: 25px;
+    font-weight: 300;
 }
 div{
     text-align: center;
