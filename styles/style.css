@@ -7,7 +7,7 @@ html{
 body{
     padding: 0 25px 25px 25px;
     border: 2px solid black;
-    border-radius: 2.5%;
+    border-radius: 20px;
     margin: 25px 25px 25px 25px;
     background-color: #7fccd4;
     letter-spacing: auto;
