@@ -6,7 +6,7 @@ html{
 }
 body{
     padding: 0 25px 25px 25px;
-    border: 5px solid black;
+    border: 2px solid black;
     border-radius: 2.5%;
     margin: 25px 25px 25px 25px;
     background-color: #7fccd4;
@@ -16,11 +16,16 @@ body{
 h1{
     font-size: 35px;
     font-weight: 400;
+    padding-left: 25px;
+    border-left: 5px solid black;
 }
 p,
 h3{
     font-size: 25px;
     font-weight: 300;
+}
+img{
+    width: 100%;
 }
 #imgs{
     text-align: center;
@@ -28,13 +33,12 @@ h3{
 #ENIAC{
     width: 500px;
     height: auto;
+    border: 1px solid black;
     border-radius: 2.5%;
 }
 #links{
     padding-left: 25px;
-    border: 5px solid black;
-    border-radius: 20px;
-}
-#inner{
+    padding-right: 25px;
+    border: 2px solid black;
     border-radius: 20px;
 }
